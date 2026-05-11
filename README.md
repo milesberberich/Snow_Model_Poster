@@ -1,15 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# Snow_Model_Poster
-
-Here is a clean, organized Markdown version for your `README.md`. I have
-formatted these as a numbered list with bolded titles and clickable
-links to make them easy for others to browse.
-
-------------------------------------------------------------------------
-
-## References
+# References
 
 1.  **Collados‐Lara, A., Pardo‐Igúzquiza, E., & Pulido‐Velazquez, D.
     (2017).** Spatiotemporal estimation of snow depth using point data
