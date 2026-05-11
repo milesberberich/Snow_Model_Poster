@@ -12,6 +12,8 @@ knitr::opts_chunk$set(
 ```
 # References
 
+In this Github-Repository you can view the sources of the Poster "Influences of terrain on snowdepth at very high resolution". You can view the poster it self as well.
+
 1. **Collados‐Lara, A., Pardo‐Igúzquiza, E., & Pulido‐Velazquez, D. (2017).** Spatiotemporal estimation of snow depth using point data from snow stakes, digital terrain models, and satellite data. *Hydrological Processes*, 31(10), 1966–1982. [https://doi.org/10.1002/hyp.11165](https://doi.org/10.1002/hyp.11165)
 2. **Winstral, A., Elder, K., & Davis, R. E. (2002).** Spatial snow modeling of wind-redistributed snow using terrain-based parameters. *Journal of Hydrometeorology*, 3(5), 524–538. [https://doi.org/10.1175/1525-7541(2002)003<0524:SSMOWR>2.0.CO;2](https://www.google.com/search?q=https://doi.org/10.1175/1525-7541(2002)003%3C0524:SSMOWR%3E2.0.CO%3B2)
 3. **Grünewald, T., Schirmer, M., Mott, R., & Lehning, M. (2010).** Spatial and temporal variability of snow depth and ablation rates in a small mountain catchment. *The Cryosphere*, 4(2), 215–225. [https://doi.org/10.5194/tc-4-215-2010](https://doi.org/10.5194/tc-4-215-2010)

@@ -3,6 +3,10 @@
 
 # References
 
+In this Github-Repository you can view the sources of the Poster
+“Influences of terrain on snowdepth at very high resolution”. You can
+view the poster it self as well.
+
 1.  **Collados‐Lara, A., Pardo‐Igúzquiza, E., & Pulido‐Velazquez, D.
     (2017).** Spatiotemporal estimation of snow depth using point data
     from snow stakes, digital terrain models, and satellite data.
